@@ -37,37 +37,37 @@ def create_graph(users, items, likes):
     return G
 
 
-    def complete_graph(k, G, users, items, likes, user_items):
+def complete_graph(k, G, users, items, likes, user_items):
 
-        try:
-            # Create items combinations of size k
-            pool = multiprocess.Pool()
-            my_combinations = pool.map(combinations,
-                                       ([user, item_list, k] for user, item_list in user_items.items()
-                                        if len(item_list) >= k))
-            #print(len(my_combinations), my_combinations[0], my_combinations[1], my_combinations[2])
-            new_likes = []
+    try:
+        # Create items combinations of size k
+        pool = multiprocess.Pool()
+        my_combinations = pool.map(combinations,
+                                   ([user, item_list, k] for user, item_list in user_items.items()
+                                    if len(item_list) >= k))
+        #print(len(my_combinations), my_combinations[0], my_combinations[1], my_combinations[2])
+        new_likes = []
 
-            for i in range(0, len(my_combinations)):
-                for j in range(0, len(my_combinations[i])):
-                    new_likes.append([my_combinations[i][j][0], my_combinations[i][j][1], k])
+        for i in range(0, len(my_combinations)):
+            for j in range(0, len(my_combinations[i])):
+                new_likes.append([my_combinations[i][j][0], my_combinations[i][j][1], k])
 
-            new_items = np.array(np.unique(np.array(new_likes)[:,1]))
+        new_items = np.array(np.unique(np.array(new_likes)[:,1]))
 
-            G.add_nodes_from(new_items, bipartite=1)
+        G.add_nodes_from(new_items, bipartite=1)
 
-            for l in new_likes:
-                G.add_edge(l[0], l[1], **{"capacity": 1, "weight": 2})
+        for l in new_likes:
+            G.add_edge(l[0], l[1], **{"capacity": 1, "weight": 2})
 
-            for i in new_items:
-                G.add_edge(i, 't', **{"capacity": 1, "weight": 1})
+        for i in new_items:
+            G.add_edge(i, 't', **{"capacity": 1, "weight": 1})
 
-        # To make sure processes are closed in the end, even if errors happen
-        finally:
-            pool.close()
-            pool.join()
+    # To make sure processes are closed in the end, even if errors happen
+    finally:
+        pool.close()
+        pool.join()
 
-        return G
+    return G
 
 
 def max_flow_min_cost(users, items, user_items, likes):
