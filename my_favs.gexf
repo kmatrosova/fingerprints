@@ -131,6 +131,70 @@
       <node id="The Clash" label="The Clash" />
       <node id="The Police" label="The Police" />
       <node id="Zventa Sventana" label="Zventa Sventana" />
+      <node id="Stone Cold Crazy" label="Stone Cold Crazy" />
+      <node id="Bohemian Rhapsody" label="Bohemian Rhapsody" />
+      <node id="Call On Me" label="Call On Me" />
+      <node id="Summertime" label="Summertime" />
+      <node id="Summertime (From 'Porgy &amp; Bess')" label="Summertime (From 'Porgy &amp; Bess')" />
+      <node id="Blackbird" label="Blackbird" />
+      <node id="Крошка" label="Крошка" />
+      <node id="Нимфоманка" label="Нимфоманка" />
+      <node id="Redbone" label="Redbone" />
+      <node id="The Thrill Is Gone" label="The Thrill Is Gone" />
+      <node id="Free Bird" label="Free Bird" />
+      <node id="World Don't Shine" label="World Don't Shine" />
+      <node id="Cahaba" label="Cahaba" />
+      <node id="Looking for Today" label="Looking for Today" />
+      <node id="Planet Caravan" label="Planet Caravan" />
+      <node id="Changes" label="Changes" />
+      <node id="Green Onions" label="Green Onions" />
+      <node id="Iyat Ninhay / Jaguar (A Great Desert I Saw)" label="Iyat Ninhay / Jaguar (A Great Desert I Saw)" />
+      <node id="All To Myself - A COLORS SHOW" label="All To Myself - A COLORS SHOW" />
+      <node id="California Dreamin'" label="California Dreamin'" />
+      <node id="Vagabond" label="Vagabond" />
+      <node id="Sastanàqqàm" label="Sastanàqqàm" />
+      <node id="Babe I'm Gonna Leave You" label="Babe I'm Gonna Leave You" />
+      <node id="Unchain My Heart" label="Unchain My Heart" />
+      <node id="&quot;In the Cold" label="&quot;In the Cold" />
+      <node id="Мы разбиваемся" label="Мы разбиваемся" />
+      <node id="Cry Baby" label="Cry Baby" />
+      <node id="One Night Stand" label="One Night Stand" />
+      <node id="Kozmic Blues" label="Kozmic Blues" />
+      <node id="Another Piece Of My Heart" label="Another Piece Of My Heart" />
+      <node id="Vsyo Kak U Ludey" label="Vsyo Kak U Ludey" />
+      <node id="Feeling Good" label="Feeling Good" />
+      <node id="Sinnerman" label="Sinnerman" />
+      <node id="Do I Move You?" label="Do I Move You?" />
+      <node id="Ne Me Quitte Pas" label="Ne Me Quitte Pas" />
+      <node id="Love Interruption" label="Love Interruption" />
+      <node id="A Vava Inouva" label="A Vava Inouva" />
+      <node id="Cosmic Girl" label="Cosmic Girl" />
+      <node id="You Give Me Something" label="You Give Me Something" />
+      <node id="Virtual Insanity" label="Virtual Insanity" />
+      <node id="Crazy" label="Crazy" />
+      <node id="She's Long Gone" label="She's Long Gone" />
+      <node id="Africa" label="Africa" />
+      <node id="People Are Strange" label="People Are Strange" />
+      <node id="The End" label="The End" />
+      <node id="Riders on the Storm" label="Riders on the Storm" />
+      <node id="Light My Fire" label="Light My Fire" />
+      <node id="Knockin' On Heaven's Door" label="Knockin' On Heaven's Door" />
+      <node id="Ain't No Mountain High Enough" label="Ain't No Mountain High Enough" />
+      <node id="Trouble Man" label="Trouble Man" />
+      <node id="Yarab" label="Yarab" />
+      <node id="Char'aa" label="Char'aa" />
+      <node id="Dahar" label="Dahar" />
+      <node id="The Oud &amp; The Fuzz (4/4)" label="The Oud &amp; The Fuzz (4/4)" />
+      <node id="3/8+5/8=8/8" label="3/8+5/8=8/8" />
+      <node id="Boom Boom" label="Boom Boom" />
+      <node id="Cheenese" label="Cheenese" />
+      <node id="90" label="90" />
+      <node id="Catch The Rainbow" label="Catch The Rainbow" />
+      <node id="Sing Sing Sing" label="Sing Sing Sing" />
+      <node id="Fly Me To The Moon" label="Fly Me To The Moon" />
+      <node id="Зима" label="Зима" />
+      <node id="Somebody to Love" label="Somebody to Love" />
+      <node id="White Rabbit" label="White Rabbit" />
     </nodes>
     <edges>
       <edge id="0" source="user" target="hip_hop" />
@@ -258,6 +322,71 @@
       <edge id="122" source="folk" target="Idir" />
       <edge id="123" source="folk" target="Ленинград" />
       <edge id="124" source="electronic" target="Zventa Sventana" />
+      <edge id="125" source="Queen" target="Stone Cold Crazy" />
+      <edge id="126" source="Queen" target="Bohemian Rhapsody" />
+      <edge id="127" source="Big Brother &amp; The Holding Company" target="Call On Me" />
+      <edge id="128" source="Big Brother &amp; The Holding Company" target="Summertime" />
+      <edge id="129" source="Big Brother &amp; The Holding Company" target="Summertime (From 'Porgy &amp; Bess')" />
+      <edge id="130" source="Tash Sultana" target="Blackbird" />
+      <edge id="131" source="Монеточка" target="Крошка" />
+      <edge id="132" source="Монеточка" target="Нимфоманка" />
+      <edge id="133" source="Childish Gambino" target="Redbone" />
+      <edge id="134" source="Chet Baker" target="The Thrill Is Gone" />
+      <edge id="135" source="Lynyrd Skynyrd" target="Free Bird" />
+      <edge id="136" source="Southern" target="World Don't Shine" />
+      <edge id="137" source="Southern" target="Cahaba" />
+      <edge id="138" source="Black Sabbath" target="Looking for Today" />
+      <edge id="139" source="Black Sabbath" target="Planet Caravan" />
+      <edge id="140" source="Black Sabbath" target="Changes" />
+      <edge id="141" source="Booker T. &amp; The MG's" target="Green Onions" />
+      <edge id="142" source="BOMBINO" target="Iyat Ninhay / Jaguar (A Great Desert I Saw)" />
+      <edge id="143" source="Baby Rose" target="All To Myself - A COLORS SHOW" />
+      <edge id="144" source="The Mamas &amp; The Papas" target="California Dreamin'" />
+      <edge id="145" source="Wolfmother" target="Vagabond" />
+      <edge id="146" source="Tinariwen" target="Sastanàqqàm" />
+      <edge id="147" source="Led Zeppelin" target="Babe I'm Gonna Leave You" />
+      <edge id="148" source="Ray Charles" target="Unchain My Heart" />
+      <edge id="149" source="The White Stripes" target="&quot;In the Cold" />
+      <edge id="150" source="Земфира" target="Мы разбиваемся" />
+      <edge id="151" source="Janis Joplin" target="Cry Baby" />
+      <edge id="152" source="Janis Joplin" target="One Night Stand" />
+      <edge id="153" source="Janis Joplin" target="Kozmic Blues" />
+      <edge id="154" source="Janis Joplin" target="Another Piece Of My Heart" />
+      <edge id="155" source="Noize MC" target="Vsyo Kak U Ludey" />
+      <edge id="156" source="Nina Simone" target="Feeling Good" />
+      <edge id="157" source="Nina Simone" target="Sinnerman" />
+      <edge id="158" source="Nina Simone" target="Do I Move You?" />
+      <edge id="159" source="Nina Simone" target="Ne Me Quitte Pas" />
+      <edge id="160" source="Jack White" target="Love Interruption" />
+      <edge id="161" source="Idir" target="A Vava Inouva" />
+      <edge id="162" source="Jamiroquai" target="Cosmic Girl" />
+      <edge id="163" source="Jamiroquai" target="You Give Me Something" />
+      <edge id="164" source="Jamiroquai" target="Virtual Insanity" />
+      <edge id="165" source="Aerosmith" target="Crazy" />
+      <edge id="166" source="The Black Keys" target="She's Long Gone" />
+      <edge id="167" source="Toto" target="Africa" />
+      <edge id="168" source="The Doors" target="People Are Strange" />
+      <edge id="169" source="The Doors" target="The End" />
+      <edge id="170" source="The Doors" target="Riders on the Storm" />
+      <edge id="171" source="The Doors" target="Light My Fire" />
+      <edge id="172" source="Bob Dylan" target="Knockin' On Heaven's Door" />
+      <edge id="173" source="Marvin Gaye" target="Ain't No Mountain High Enough" />
+      <edge id="174" source="Marvin Gaye" target="Trouble Man" />
+      <edge id="175" source="Charlie Parker" target="Summertime" />
+      <edge id="176" source="Malouma" target="Yarab" />
+      <edge id="177" source="Malouma" target="Char'aa" />
+      <edge id="178" source="Malouma" target="Dahar" />
+      <edge id="179" source="John Berberian And The Rock East Ensemble" target="The Oud &amp; The Fuzz (4/4)" />
+      <edge id="180" source="John Berberian And The Rock East Ensemble" target="3/8+5/8=8/8" />
+      <edge id="181" source="The Animals" target="Boom Boom" />
+      <edge id="182" source="POMPEYA" target="Cheenese" />
+      <edge id="183" source="POMPEYA" target="90" />
+      <edge id="184" source="Rainbow" target="Catch The Rainbow" />
+      <edge id="185" source="Max Roach" target="Sing Sing Sing" />
+      <edge id="186" source="Frank Sinatra" target="Fly Me To The Moon" />
+      <edge id="187" source="Эдуард Хиль" target="Зима" />
+      <edge id="188" source="Jefferson Airplane" target="Somebody to Love" />
+      <edge id="189" source="Jefferson Airplane" target="White Rabbit" />
     </edges>
   </graph>
 </gexf>
