@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-05-11">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="user" label="user" />
+      <node id="hip_hop" label="hip_hop" />
+      <node id="soul" label="soul" />
+      <node id="rock" label="rock" />
+      <node id="jazz" label="jazz" />
+      <node id="r&amp;b" label="r&amp;b" />
+      <node id="metal" label="metal" />
+      <node id="unknown" label="unknown" />
+      <node id="pop" label="pop" />
+      <node id="blues" label="blues" />
+      <node id="reggae" label="reggae" />
+      <node id="folk" label="folk" />
+      <node id="electronic" label="electronic" />
+      <node id="Little Big" label="Little Big" />
+      <node id="Amy Winehouse" label="Amy Winehouse" />
+      <node id="Black Rebel Motorcycle Club" label="Black Rebel Motorcycle Club" />
+      <node id="The Beatles" label="The Beatles" />
+      <node id="Alice Cooper" label="Alice Cooper" />
+      <node id="Queen" label="Queen" />
+      <node id="Big Brother &amp; The Holding Company" label="Big Brother &amp; The Holding Company" />
+      <node id="The Kinks" label="The Kinks" />
+      <node id="Nancy Sinatra" label="Nancy Sinatra" />
+      <node id="&quot;Tyler" label="&quot;Tyler" />
+      <node id="Eagles" label="Eagles" />
+      <node id="Tash Sultana" label="Tash Sultana" />
+      <node id="Монеточка" label="Монеточка" />
+      <node id="Childish Gambino" label="Childish Gambino" />
+      <node id="Miles Davis" label="Miles Davis" />
+      <node id="Scott Bradlee's Postmodern Jukebox" label="Scott Bradlee's Postmodern Jukebox" />
+      <node id="Tina Turner" label="Tina Turner" />
+      <node id="Chet Baker" label="Chet Baker" />
+      <node id="Lynyrd Skynyrd" label="Lynyrd Skynyrd" />
+      <node id="Southern" label="Southern" />
+      <node id="Mahalia" label="Mahalia" />
+      <node id="H.E.R." label="H.E.R." />
+      <node id="Black Sabbath" label="Black Sabbath" />
+      <node id="Simon &amp; Garfunkel" label="Simon &amp; Garfunkel" />
+      <node id="Кино" label="Кино" />
+      <node id="AC/DC" label="AC/DC" />
+      <node id="5'nizza" label="5'nizza" />
+      <node id="Skid Row" label="Skid Row" />
+      <node id="Booker T. &amp; The MG's" label="Booker T. &amp; The MG's" />
+      <node id="Boney M." label="Boney M." />
+      <node id="Jerry Lee Lewis" label="Jerry Lee Lewis" />
+      <node id="BOMBINO" label="BOMBINO" />
+      <node id="ZZ Top" label="ZZ Top" />
+      <node id="Baby Rose" label="Baby Rose" />
+      <node id="Cream" label="Cream" />
+      <node id="The Hellacopters" label="The Hellacopters" />
+      <node id="Stevie Wonder" label="Stevie Wonder" />
+      <node id="Chuck Berry" label="Chuck Berry" />
+      <node id="The Mamas &amp; The Papas" label="The Mamas &amp; The Papas" />
+      <node id="ABBA" label="ABBA" />
+      <node id="James Brown" label="James Brown" />
+      <node id="Jimi Hendrix" label="Jimi Hendrix" />
+      <node id="Louis Armstrong" label="Louis Armstrong" />
+      <node id="Wolfmother" label="Wolfmother" />
+      <node id="Ozzy Osbourne" label="Ozzy Osbourne" />
+      <node id="Aretha Franklin" label="Aretha Franklin" />
+      <node id="Arctic Monkeys" label="Arctic Monkeys" />
+      <node id="Chubby Checker" label="Chubby Checker" />
+      <node id="Ella Fitzgerald" label="Ella Fitzgerald" />
+      <node id="KISS" label="KISS" />
+      <node id="Tinariwen" label="Tinariwen" />
+      <node id="David Bowie" label="David Bowie" />
+      <node id="Led Zeppelin" label="Led Zeppelin" />
+      <node id="Ray Charles" label="Ray Charles" />
+      <node id="Creedence Clearwater Revival" label="Creedence Clearwater Revival" />
+      <node id="The White Stripes" label="The White Stripes" />
+      <node id="Муслим Магомаев" label="Муслим Магомаев" />
+      <node id="Bob Marley" label="Bob Marley" />
+      <node id="Forgotten Tomb" label="Forgotten Tomb" />
+      <node id="Supertramp" label="Supertramp" />
+      <node id="Joan Jett and the Blackhearts" label="Joan Jett and the Blackhearts" />
+      <node id="Земфира" label="Земфира" />
+      <node id="Janis Joplin" label="Janis Joplin" />
+      <node id="Звери" label="Звери" />
+      <node id="Lomepal" label="Lomepal" />
+      <node id="Bee Gees" label="Bee Gees" />
+      <node id="Noize MC" label="Noize MC" />
+      <node id="Nina Simone" label="Nina Simone" />
+      <node id="Jack White" label="Jack White" />
+      <node id="Eric Clapton" label="Eric Clapton" />
+      <node id="Idir" label="Idir" />
+      <node id="Journey" label="Journey" />
+      <node id="Jamiroquai" label="Jamiroquai" />
+      <node id="Aerosmith" label="Aerosmith" />
+      <node id="Scorpions" label="Scorpions" />
+      <node id="The Black Keys" label="The Black Keys" />
+      <node id="Toto" label="Toto" />
+      <node id="The Doors" label="The Doors" />
+      <node id="Bob Dylan" label="Bob Dylan" />
+      <node id="Marvin Gaye" label="Marvin Gaye" />
+      <node id="Charlie Parker" label="Charlie Parker" />
+      <node id="Malouma" label="Malouma" />
+      <node id="John Berberian And The Rock East Ensemble" label="John Berberian And The Rock East Ensemble" />
+      <node id="The Animals" label="The Animals" />
+      <node id="Iggy Pop" label="Iggy Pop" />
+      <node id="Bill Withers" label="Bill Withers" />
+      <node id="Oasis" label="Oasis" />
+      <node id="Whitesnake" label="Whitesnake" />
+      <node id="POMPEYA" label="POMPEYA" />
+      <node id="Placebo" label="Placebo" />
+      <node id="Rainbow" label="Rainbow" />
+      <node id="The Raconteurs" label="The Raconteurs" />
+      <node id="Neil Young" label="Neil Young" />
+      <node id="Blondie" label="Blondie" />
+      <node id="Santana" label="Santana" />
+      <node id="Pixies" label="Pixies" />
+      <node id="Duke Ellington" label="Duke Ellington" />
+      <node id="Max Roach" label="Max Roach" />
+      <node id="Ленинград" label="Ленинград" />
+      <node id="Frank Sinatra" label="Frank Sinatra" />
+      <node id="The Platters" label="The Platters" />
+      <node id="Radiohead" label="Radiohead" />
+      <node id="George Benson" label="George Benson" />
+      <node id="Эдуард Хиль" label="Эдуард Хиль" />
+      <node id="Сплин" label="Сплин" />
+      <node id="The Who" label="The Who" />
+      <node id="Kasabian" label="Kasabian" />
+      <node id="Thin Lizzy" label="Thin Lizzy" />
+      <node id="On A Pale Horse" label="On A Pale Horse" />
+      <node id="Jefferson Airplane" label="Jefferson Airplane" />
+      <node id="The Clash" label="The Clash" />
+      <node id="The Police" label="The Police" />
+      <node id="Zventa Sventana" label="Zventa Sventana" />
+    </nodes>
+    <edges>
+      <edge id="0" source="user" target="hip_hop" />
+      <edge id="1" source="user" target="soul" />
+      <edge id="2" source="user" target="rock" />
+      <edge id="3" source="user" target="jazz" />
+      <edge id="4" source="user" target="r&amp;b" />
+      <edge id="5" source="user" target="metal" />
+      <edge id="6" source="user" target="unknown" />
+      <edge id="7" source="user" target="pop" />
+      <edge id="8" source="user" target="blues" />
+      <edge id="9" source="user" target="reggae" />
+      <edge id="10" source="user" target="folk" />
+      <edge id="11" source="user" target="electronic" />
+      <edge id="12" source="hip_hop" target="Little Big" />
+      <edge id="13" source="hip_hop" target="&quot;Tyler" />
+      <edge id="14" source="hip_hop" target="Childish Gambino" />
+      <edge id="15" source="hip_hop" target="Lomepal" />
+      <edge id="16" source="soul" target="Amy Winehouse" />
+      <edge id="17" source="soul" target="Booker T. &amp; The MG's" />
+      <edge id="18" source="soul" target="Boney M." />
+      <edge id="19" source="soul" target="Stevie Wonder" />
+      <edge id="20" source="soul" target="James Brown" />
+      <edge id="21" source="soul" target="Aretha Franklin" />
+      <edge id="22" source="soul" target="Bee Gees" />
+      <edge id="23" source="soul" target="Jamiroquai" />
+      <edge id="24" source="soul" target="Marvin Gaye" />
+      <edge id="25" source="soul" target="Bill Withers" />
+      <edge id="26" source="rock" target="Black Rebel Motorcycle Club" />
+      <edge id="27" source="rock" target="The Beatles" />
+      <edge id="28" source="rock" target="Alice Cooper" />
+      <edge id="29" source="rock" target="Queen" />
+      <edge id="30" source="rock" target="Big Brother &amp; The Holding Company" />
+      <edge id="31" source="rock" target="The Kinks" />
+      <edge id="32" source="rock" target="Eagles" />
+      <edge id="33" source="rock" target="Tash Sultana" />
+      <edge id="34" source="rock" target="Tina Turner" />
+      <edge id="35" source="rock" target="Lynyrd Skynyrd" />
+      <edge id="36" source="rock" target="Southern" />
+      <edge id="37" source="rock" target="Simon &amp; Garfunkel" />
+      <edge id="38" source="rock" target="Кино" />
+      <edge id="39" source="rock" target="AC/DC" />
+      <edge id="40" source="rock" target="Skid Row" />
+      <edge id="41" source="rock" target="Jerry Lee Lewis" />
+      <edge id="42" source="rock" target="BOMBINO" />
+      <edge id="43" source="rock" target="ZZ Top" />
+      <edge id="44" source="rock" target="Cream" />
+      <edge id="45" source="rock" target="The Hellacopters" />
+      <edge id="46" source="rock" target="Chuck Berry" />
+      <edge id="47" source="rock" target="The Mamas &amp; The Papas" />
+      <edge id="48" source="rock" target="Jimi Hendrix" />
+      <edge id="49" source="rock" target="Wolfmother" />
+      <edge id="50" source="rock" target="Arctic Monkeys" />
+      <edge id="51" source="rock" target="Chubby Checker" />
+      <edge id="52" source="rock" target="KISS" />
+      <edge id="53" source="rock" target="David Bowie" />
+      <edge id="54" source="rock" target="Led Zeppelin" />
+      <edge id="55" source="rock" target="Creedence Clearwater Revival" />
+      <edge id="56" source="rock" target="The White Stripes" />
+      <edge id="57" source="rock" target="Supertramp" />
+      <edge id="58" source="rock" target="Joan Jett and the Blackhearts" />
+      <edge id="59" source="rock" target="Земфира" />
+      <edge id="60" source="rock" target="Janis Joplin" />
+      <edge id="61" source="rock" target="Noize MC" />
+      <edge id="62" source="rock" target="Jack White" />
+      <edge id="63" source="rock" target="Eric Clapton" />
+      <edge id="64" source="rock" target="Journey" />
+      <edge id="65" source="rock" target="Aerosmith" />
+      <edge id="66" source="rock" target="Scorpions" />
+      <edge id="67" source="rock" target="The Black Keys" />
+      <edge id="68" source="rock" target="Toto" />
+      <edge id="69" source="rock" target="The Doors" />
+      <edge id="70" source="rock" target="Bob Dylan" />
+      <edge id="71" source="rock" target="The Animals" />
+      <edge id="72" source="rock" target="Iggy Pop" />
+      <edge id="73" source="rock" target="Oasis" />
+      <edge id="74" source="rock" target="Whitesnake" />
+      <edge id="75" source="rock" target="Placebo" />
+      <edge id="76" source="rock" target="Rainbow" />
+      <edge id="77" source="rock" target="The Raconteurs" />
+      <edge id="78" source="rock" target="Neil Young" />
+      <edge id="79" source="rock" target="Blondie" />
+      <edge id="80" source="rock" target="Santana" />
+      <edge id="81" source="rock" target="Pixies" />
+      <edge id="82" source="rock" target="Radiohead" />
+      <edge id="83" source="rock" target="Сплин" />
+      <edge id="84" source="rock" target="The Who" />
+      <edge id="85" source="rock" target="Kasabian" />
+      <edge id="86" source="rock" target="Thin Lizzy" />
+      <edge id="87" source="rock" target="Jefferson Airplane" />
+      <edge id="88" source="rock" target="The Clash" />
+      <edge id="89" source="rock" target="The Police" />
+      <edge id="90" source="jazz" target="Nancy Sinatra" />
+      <edge id="91" source="jazz" target="Монеточка" />
+      <edge id="92" source="jazz" target="Miles Davis" />
+      <edge id="93" source="jazz" target="Scott Bradlee's Postmodern Jukebox" />
+      <edge id="94" source="jazz" target="Chet Baker" />
+      <edge id="95" source="jazz" target="Louis Armstrong" />
+      <edge id="96" source="jazz" target="Ella Fitzgerald" />
+      <edge id="97" source="jazz" target="Nina Simone" />
+      <edge id="98" source="jazz" target="Charlie Parker" />
+      <edge id="99" source="jazz" target="Duke Ellington" />
+      <edge id="100" source="jazz" target="Max Roach" />
+      <edge id="101" source="jazz" target="Frank Sinatra" />
+      <edge id="102" source="jazz" target="George Benson" />
+      <edge id="103" source="r&amp;b" target="Mahalia" />
+      <edge id="104" source="r&amp;b" target="H.E.R." />
+      <edge id="105" source="r&amp;b" target="Baby Rose" />
+      <edge id="106" source="r&amp;b" target="The Platters" />
+      <edge id="107" source="metal" target="Black Sabbath" />
+      <edge id="108" source="metal" target="Ozzy Osbourne" />
+      <edge id="109" source="metal" target="Forgotten Tomb" />
+      <edge id="110" source="unknown" target="5'nizza" />
+      <edge id="111" source="unknown" target="John Berberian And The Rock East Ensemble" />
+      <edge id="112" source="unknown" target="On A Pale Horse" />
+      <edge id="113" source="pop" target="ABBA" />
+      <edge id="114" source="pop" target="Муслим Магомаев" />
+      <edge id="115" source="pop" target="Звери" />
+      <edge id="116" source="pop" target="POMPEYA" />
+      <edge id="117" source="pop" target="Эдуард Хиль" />
+      <edge id="118" source="blues" target="Tinariwen" />
+      <edge id="119" source="blues" target="Ray Charles" />
+      <edge id="120" source="blues" target="Malouma" />
+      <edge id="121" source="reggae" target="Bob Marley" />
+      <edge id="122" source="folk" target="Idir" />
+      <edge id="123" source="folk" target="Ленинград" />
+      <edge id="124" source="electronic" target="Zventa Sventana" />
+    </edges>
+  </graph>
+</gexf>
