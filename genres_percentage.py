@@ -1,6 +1,8 @@
 import csv
 import pandas as pd
 import networkx as nx
+import numpy as np
+import math
 import matplotlib.pyplot as plt
 from networkx.drawing.nx_agraph import graphviz_layout
 
@@ -44,7 +46,9 @@ G.add_edges_from(my_edges)
 G.add_nodes_from(df.artist_name.dropna().unique())
 my_edges = [(x, y) for x, y in zip(df['genre'], df['artist_name'])]
 G.add_edges_from(my_edges)
-
+G.add_nodes_from(df.song_title.dropna().unique())
+my_edges = [(x, y) for x, y in zip(df['artist_name'], df['song_title']) if y == y]
+G.add_edges_from(my_edges)
 #nx.draw(G, with_labels=True)
 #plt.savefig("filename.png")
 
