@@ -1,13 +1,8 @@
-csv
 numpy
-itertools
-operator
-copy
 networkx
-random
 statistics
-multiprocess
-collections
 multiprocess
 pandas
 matplotlib
+scipy
+sklearn
